@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rezendpoll
+- 🧬 I'm a developer
 - 👀 I’m passionate about Machine Learning (ML) and Artificial Intelligence (AI)
 - 🌱 I’m currently working on ML projects and learning advanced AI techniques
 - 💻 I enjoy building models using Python, TensorFlow, Keras, and PyTorch
